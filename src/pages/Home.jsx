@@ -47,7 +47,7 @@ export default function Home() {
 
         {/* Instagram */}
         <a 
-          href="https://instagram.com/burgerman024" 
+          href="https://instagram.com/bugerman024" 
           target="_blank" 
           rel="noopener noreferrer"
           className={`group block p-6 rounded-lg transition-all duration-300 hover:scale-105 hover:rotate-2 ${
